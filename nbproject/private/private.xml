@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/back/reservation/Manage.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/back/event/Manage.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/entities/User.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/entities/Event.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/utils/DateUtils.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/MainApp.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/Login.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/front/reservation/Manage.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/services/EventService.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/entities/Reservation.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/front/event/ShowAll.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/services/ReservationService.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/back/reservation/ShowAll.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/utils/Statics.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/gui/back/event/ShowAll.java</file>
+            <file>file:/C:/Users/SOULAYMA/Desktop/sousprojet/souprojet/src/com/souprojet/utils/AlertUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
