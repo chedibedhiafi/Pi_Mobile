@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/back/reservation/Manage.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/front/AccueilFront.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/ListUser.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/front/event/ShowAll.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/front/reservation/ShowAll.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/ModifFormBlog.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/Login.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/entities/Blog.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/Ple/MyApplication.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/services/ReservationService.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/back/event/ShowAll.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/BlogForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/SignUpForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/ListForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/entities/Reservation.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/utils/DateUtils.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/utils/Statics.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/entities/Utilisateur.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/services/ServiceBlog.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/ProfileForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/entities/Event.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/AjoutBlog.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/back/AccueilBack.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/entities/categorie.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/BaseForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/services/ServiceUtilisateur.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/services/EventService.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/back/reservation/ShowAll.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/CategorieForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/utils/AlertUtils.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/ListFormBlog.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/SignInForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/front/reservation/Manage.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/SessionManger.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/back/event/Manage.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/gui/ModifForm.java</file>
+            <file>file:/C:/Users/21694/Desktop/mobile/mobileP/src/com/mycompany/services/ServiceCategorie.java</file>
+        </group>
+    </open-files>
+</project-private>
